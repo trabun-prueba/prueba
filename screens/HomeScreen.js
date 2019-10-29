@@ -188,7 +188,7 @@ export class childComponent extends React.Component {
                         </Button>
                         <TextInput
                               style={styles.input}
-                              placeholder="Ramos de preferencia"
+                              placeholder="Ramos de preferencia WEÑAAA"
                               value={this.state.Demanda}
                         />
                         <Button style={styles.boton}>
